@@ -1,1 +1,1 @@
-[suzanne-lenglen.pages.dev]([URL](https://suzanne-lenglen.pages.dev/))
+[suzanne-lenglen.pages.dev](https://suzanne-lenglen.pages.dev/)
